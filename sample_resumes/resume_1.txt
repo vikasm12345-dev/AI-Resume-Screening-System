@@ -1,0 +1,24 @@
+John Smith
+Senior Python Developer & Machine Learning Engineer
+
+EXPERIENCE:
+Senior Python Developer at TechCorp (2020 - 2024)
+- Built machine learning models using TensorFlow and PyTorch
+- Developed deep learning pipelines for NLP tasks
+- Data analysis using pandas, numpy, scikit-learn
+- Deployed applications on AWS using Docker and Kubernetes
+- Worked with SQL, PostgreSQL, and MongoDB databases
+- Built REST APIs using Flask and FastAPI
+- Version control using Git on Linux systems
+
+EDUCATION:
+Master of Computer Science - Stanford University (2018)
+Bachelor of Data Science - MIT (2016)
+
+SKILLS:
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch,
+pandas, numpy, scikit-learn, AWS, Docker, Kubernetes, SQL,
+PostgreSQL, MongoDB, Flask, FastAPI, Git, Linux, NLP,
+Communication, Leadership, Teamwork, Problem Solving
+
+5+ years of experience in Python and Machine Learning

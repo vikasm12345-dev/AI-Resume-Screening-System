@@ -1,0 +1,18 @@
+Mike Brown
+Frontend Developer
+
+EXPERIENCE:
+Frontend Developer at WebStudio (2020 - 2024)
+- Built responsive websites using React, Angular, and Vue
+- HTML, CSS, and JavaScript development
+- Used Bootstrap and Tailwind for styling
+- Some experience with Node.js and Express
+
+EDUCATION:
+Bachelor of Information Technology (2019)
+
+SKILLS:
+JavaScript, React, Angular, Vue, HTML, CSS, Bootstrap,
+Tailwind, Node.js, Express, Git, Communication
+
+4+ years of experience in frontend web development

@@ -1,0 +1,19 @@
+Sarah Johnson
+Data Analyst
+
+EXPERIENCE:
+Data Analyst at Analytics Inc (2021 - 2024)
+- Data analysis using Python, pandas, and numpy
+- Created SQL queries for PostgreSQL databases
+- Built basic machine learning models using scikit-learn
+- Used Git for version control
+- Some experience with AWS cloud services
+
+EDUCATION:
+Bachelor of Computer Science - State University (2020)
+
+SKILLS:
+Python, Data Analysis, pandas, numpy, scikit-learn,
+SQL, PostgreSQL, Git, AWS, Communication, Teamwork
+
+3+ years of experience in data analysis
